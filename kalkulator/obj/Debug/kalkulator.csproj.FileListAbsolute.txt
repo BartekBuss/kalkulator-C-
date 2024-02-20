@@ -1,0 +1,14 @@
+C:\Users\Bartosz\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\Bartosz\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\Bartosz\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\Bartosz\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.AssemblyReference.cache
+C:\Users\Bartosz\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+C:\Users\Bartosz\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+C:\Users\Bartosz\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+C:\Users\Bartosz\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\Bartosz\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
+C:\Users\Bartosz\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe.manifest
+C:\Users\Bartosz\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.application
+C:\Users\Bartosz\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.exe.manifest
+C:\Users\Bartosz\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.application
